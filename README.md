@@ -5,6 +5,7 @@ Mod for the IW4M project to enable the CAC menu while being ingame.
 
 The launcher's purpose is to disable a check for the function 'SetPlayerData' which is required to save changes in the CAC menu.
 It supports the following parameters:
+
 *Launch 'LaunchIW4M.exe' in the current directory
   IW4MCACPatcher.exe
 
