@@ -7,7 +7,6 @@ The launcher's purpose is to disable a check for the function 'SetPlayerData' wh
 It supports the following parameters:
 
 *Launch 'LaunchIW4M.exe' in the current directory
-
   IW4MCACPatcher.exe
 
 *Launch 'LaunchIW4M.exe' in a defined directory
