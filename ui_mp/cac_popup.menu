@@ -34,13 +34,6 @@
 			close "cac_popup_preview";
 			close "main_background";
 		}
-		onRequestClose
-		{
-			//setLocalVarInt ui_leftPopup 0;
-			close "cac_popup_preview";
-			close "main_background";
-			close self;
-		}
 		onESC
 		{
 			close "self";
